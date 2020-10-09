@@ -163,7 +163,7 @@ header nav a:hover{
 
 
 #section4{
-    background-image: url(netbeans/background2.jpg);
+    background-image: url(netbeans/background3.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -181,15 +181,32 @@ header nav a:hover{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     width: 70vw;
     margin: auto;
 }
 
+#section5 h1{
+    color: rgb(43, 119, 192);
+    font-size: 2em;
+}
 
+#section5 img{
+    height: 50px;
+}
 
+#section5 a{
+    text-decoration: none;
+    padding-left: 3%;
+padding-right: 3%;
+}
+#section5 nav{
+margin-top: 10%;
+width: 50%;
+text-align: center;
 
+}
 
 
 
